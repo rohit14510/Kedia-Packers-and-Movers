@@ -28,7 +28,7 @@ header {
     transition: .5s all;
 }
 .nav-links ul li a:hover{
-    color: #CB4D2C;
+    color: #069ED3;
 }
 
 .menu-icon {
@@ -311,7 +311,7 @@ header {
     transition: .5s;
 }
 .choose_card:hover .Choose_icon-container{
-    background-color: #e71b00;
+    background-color: #069ED3;
 }
 .choose_card:hover .Choose_icon{
     color: white;
@@ -325,7 +325,7 @@ header {
   border-radius: 0%;
 }
 .form_btn {
-    background-color: #e71b00;
+    background-color: #069ED3;
     color: #fff;
     font-weight: bold;
     text-decoration: none;
@@ -545,17 +545,17 @@ header {
     transition: .5s;
   }
   .ser_Card:hover .ser_Card-title{
-    color: #e71b00;
+    color: #069ED3;
   }
   .Book-link{
     text-decoration: none;
     color: #fff;
     font-weight: 700;
-    background-color: #e71b00;
+    background-color: #069ED3;
    
   }
   .Book-link:hover{
-    background-color: #e71b00 !important;
+    background-color: #069ED3 !important;
     color: white;
   }
   .ser_Card {
